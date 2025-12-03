@@ -1,18 +1,15 @@
-# 👋 Hi, I'm [Yadnyesh Kolte](https://yadnyeshkolte.github.io/)
+# 👋 Hi, I'm [Gitesh Mahajan](https:///)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadnyeshkolte@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadnyeshkolte?tab=repositories)
-[![GitHub Gist](https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/yadnyeshkolte)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giteshmahajan01@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/githubgitesh?tab=repositories)
+[![GitHub Gist](https://img.shields.io/badge/Gist-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/githubgitesh)
 
 ## 🚀 About Me
-Electronics and Computer Science student from VNIT Nagpur, passionate about building innovative solutions, and experienced in full-stack development, DevOps, and IoT.
+Mca Student.
 
 ### 💻 Tech Stack that I had experience with
 
 #### 👨‍💻 Languages
-[![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-000?&logo=Java-lang)](https://docs.oracle.com/en/java/)
-[![Shell](https://img.shields.io/badge/-Shell-000?&logo=GNOMETerminal)](https://www.gnu.org/software/bash/manual/)
-[![Vim Script](https://img.shields.io/badge/-Vim%20Script-000?&logo=vim&logoColor=green)](https://vimhelp.org/)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://docs.python.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)](https://www.typescriptlang.org/docs/)
@@ -22,7 +19,7 @@ Electronics and Computer Science student from VNIT Nagpur, passionate about buil
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://www.w3schools.com/css/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org/docs/)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)](https://www.w3schools.com/sql/)
-[![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)](https://www.markdownguide.org/)
+
 
 #### 🛠 Tools & Technologies
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org/)
@@ -42,11 +39,9 @@ Electronics and Computer Science student from VNIT Nagpur, passionate about buil
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)](https://help.ubuntu.com/)
 [![CentOS](https://img.shields.io/badge/-CentOS-000?&logo=CentOS&logoColor=green)](https://docs.centos.org/)
 [![Ansible](https://img.shields.io/badge/-Ansible-000?&logo=Ansible&logoColor=red)](https://docs.ansible.com/)
-[![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)](https://prometheus.io/docs/)
-[![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)](https://grafana.com/docs/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)](https://www.postgresql.org/docs/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://docs.mongodb.com/)
-[![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)](https://vitejs.dev/guide/)
+
 
 #### 🚀 Frameworks & Libraries
 [![React](https://img.shields.io/badge/-React-000?&logo=React)](https://react.dev/)
@@ -71,18 +66,9 @@ Electronics and Computer Science student from VNIT Nagpur, passionate about buil
 [![Hardware Integration](https://img.shields.io/badge/-Hardware%20Integration-000?&logo=arduino)](https://www.arduino.cc/en/Guide)
 
 #### 📚 Certifications
-- 🏅 [LFS162: Introduction to DevOps and Site Reliability Engineering](https://www.credly.com/badges/fad34ca8-37f8-409f-bb60-9c0474ffb786/public_url) (Linux Foundation)
-- 🏅 [AWS Educate Introduction to Cloud 101](https://www.credly.com/badges/da4ecf7b-25c5-4878-bd94-a50b36f7d3bd/public_url) (Amazon Web Services)
-- 🏅 [GitHub Foundations](https://www.credly.com/badges/8e239a24-342f-4d8d-a90c-837ca3dd4b0d/public_url) (GitHub)
-- 🏅 [LFEL1000: Introduction to FDC3](https://www.credly.com/badges/dfdeed2b-fe7c-4bfd-a773-ec1f0f815e39) (Linux Foundation)
-- 🏅 [LFD137: Open Source Contribution in Finance](https://www.credly.com/badges/dd95d3b8-5a00-492f-a59d-d4035fc0bd3b) (Linux Foundation)
-- 🏅 [Full Stack Developer Bootcamp](https://media.geeksforgeeks.org/courses/certificates/f2edf9d428dc9c3c208bc8ed7c7beb37.pdf) (GeeksforGeeks)
-- 🏅 [Object Oriented Programming in Java](https://www.coursera.org/account/accomplishments/specialization/VVN2NYUD9MZG) (Coursera)
-- 🏅 [Java Programming: Solving Problems with Software](https://www.coursera.org/account/accomplishments/verify/P3QWS7GBVVRJ) (Coursera)
-- 🏅 [Agile Project Management Certification](https://drive.google.com/file/d/1s49XqG9UwxHNoX1_JcbIWP7VzmmcTa4t/view) (HP LIFE)
 
 #### 🌐 Languages
 - 🇬🇧 English (Professional Working)
 - 🇮🇳 Marathi (Native)
 - 🇮🇳 Hindi (Professional Working)
-- 🇩🇪 German (Basic)
+
