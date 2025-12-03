@@ -17,7 +17,7 @@ Mca Student.
 [![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)](https://en.cppreference.com/w/)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://www.w3schools.com/css/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org/docs/)
+[![Data](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org/docs/)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)](https://www.w3schools.com/sql/)
 
 
