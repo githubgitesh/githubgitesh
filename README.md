@@ -7,7 +7,7 @@
 ## 🚀 About Me
 Mca Student.
 
-### 💻 Tech Stack that I had experience with
+### 💻 Tech Stack that I had experience 
 
 #### 👨‍💻 Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://docs.python.org/)
