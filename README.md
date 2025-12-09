@@ -11,7 +11,6 @@ Mca Student.
 
 #### 👨‍💻 Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://docs.python.org/)
-[![ML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://www.w3schools.com/ml/)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)](https://www.w3schools.com/sql/)
 
 
