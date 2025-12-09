@@ -7,7 +7,7 @@
 ## 🚀 About Me
 Mca Student.
 
-### 💻 Tech Stack that I had experience 
+### 💻 Big Data 
 
 #### 👨‍💻 Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://docs.python.org/)
@@ -18,8 +18,7 @@ Mca Student.
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org/)
 [![Git](https://img.shields.io/badge/-Git-000?&logo=Git)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://docs.github.com/)
-[![BIG Data](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://docs.docker.com/)
-[![PY- SPARK](https://img.shields.io/badge/-Podman-000?&logo=Podman)](https://docs.podman.io/)
+[![PY- SPARK](https://img.shields.io/badge/-PYSPARK-000?&logo=PYSPARK)](https://spark.apache.org/)
 [![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonwebservices&logoColor=F90)](https://docs.aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/-GCP-000?&logo=GoogleCloud)](https://cloud.google.com/docs)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)](https://www.postgresql.org/docs/)
