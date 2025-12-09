@@ -11,7 +11,7 @@ Mca Student.
 
 #### 👨‍💻 Languages
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://docs.python.org/)
-[![ML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://www.w3schools.com/html/)
+[![ML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)](https://www.w3schools.com/ml/)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)](https://www.w3schools.com/css/)
 [![Data](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://kotlinlang.org/docs/)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)](https://www.w3schools.com/sql/)
