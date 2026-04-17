@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Background-Analytics_%7C_ML_%7C_Big_Data-0F766E?style=flat-square" alt="Background" />
 </p>
 
-## About Me
+## [About Me](https://giteshmahajan.vercel.app/)
 
 I am a Data Analyst and ML Engineer with a strong foundation in Python, SQL, Power BI, ETL pipelines, and machine learning. My focus is simple: transform complex data into dashboards, insights, and predictive solutions that help teams make better business decisions.
 
